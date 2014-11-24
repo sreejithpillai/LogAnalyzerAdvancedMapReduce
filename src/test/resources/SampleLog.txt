@@ -1,0 +1,10 @@
+64.242.88.10 - - [07/Mar/2013:16:37:27 -0800] "GET /twiki/bin/view/TWiki/DontNotify HTTP/1.1" 200 4140
+64.242.88.10 - - [07/Mar/2013:16:39:24 -0800] "GET /twiki/bin/view/Main/TokyoOffice HTTP/1.1" 200 3853
+64.242.88.10 - - [07/Mar/2013:16:43:54 -0800] "GET /twiki/bin/view/Main/MikeMannix HTTP/1.1" 200 3686
+64.242.88.10 - - [07/Mar/2013:16:45:56 -0800] "GET /twiki/bin/attach/Main/PostfixCommands HTTP/1.1" 401 12846
+64.242.88.10 - - [07/Mar/2013:21:41:04 -0800] "GET /mailman/listinfo/techcomm HTTP/1.1" 200 6155
+64.242.88.10 - - [07/Mar/2013:21:42:47 -0800] "GET /twiki/bin/view/TWiki/TWikiHistory?rev=1.8 HTTP/1.1" 200 15618
+64.242.88.10 - - [07/Mar/2013:21:44:10 -0800] "GET /twiki/bin/edit/Sandbox/TestTopic7?topicparent=Sandbox.WebHome HTTP/1.1" 401 12846
+64.242.88.10 - - [08/Mar/2013:05:48:48 -0800] "GET /twiki/bin/rdiff/TWiki/KevinKinnell?rev1=1.4&rev2=1.3 HTTP/1.1" 200 4369
+64.242.88.10 - - [08/Mar/2013:05:51:45 -0800] "GET /twiki/bin/view/TWiki/WelcomeGuest?rev=r1.11 HTTP/1.1" 200 13102
+64.242.88.10 - - [08/Mar/2013:05:56:08 -0800] "GET /twiki/bin/view/TWiki/TWikiRegistration?rev=r1.4 HTTP/1.1" 200 12113
