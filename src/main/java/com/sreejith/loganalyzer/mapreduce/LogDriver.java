@@ -15,7 +15,7 @@ public class LogDriver {
 		
 		job.setMapperClass(LogMapper.class);
 		job.setPartitionerClass(LogPartitioner.class);
-		job.setPartitionerClass(LogPartitioner.class);
+		job.setCombinerClass(LogReducer.class);
 		job.setReducerClass(LogReducer.class);
 		
 		job.setNumReduceTasks(2);
